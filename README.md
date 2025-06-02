@@ -34,9 +34,7 @@ pip install numpy pandas scikit-learn
 2. **Prepare the MNIST dataset**
 
    Download the MNIST dataset from [Yann LeCun's website](http://yann.lecun.com/exdb/mnist/) or use any helper script included.
-
-
-   ```
+   
 3. **Run training manually**
 
    In your main script or a Jupyter notebook, you can initialize and train the network like this:
